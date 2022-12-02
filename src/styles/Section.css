@@ -13,6 +13,11 @@ body {
     margin: 25px 0px;
 }
 
+.section h2 {
+    text-align: center;
+    margin: 25px 0px;
+}
+
 /* About Section Styling */
 
 .aboutPage img {
@@ -28,7 +33,20 @@ body {
 
 /* Portfolio Section Styling */
 
+.portfolioPage img {
+    height: 288px;
+    width: 100%;
+    box-shadow: 5px 5px 5px black;
+    opacity: 100%;
+    transition: opacity .2s;
+    transition-timing-function: ease-in-out;
+}
 
+.portfolioPage img:hover {
+    opacity: 60%;
+    transition: opacity .2s;
+    transition-timing-function: ease-in-out;
+}
 
 /* Contact Section Styling */
 
