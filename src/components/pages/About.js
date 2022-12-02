@@ -1,6 +1,7 @@
 import React from 'react';
 import selfPortrait from '../../imgs/selfPortrait.png'
 import '../../styles/Section.css'
+import { motion, AnimatePresence } from "framer-motion"
 
 // const styles = {
 //     imgStyle: {
@@ -10,6 +11,26 @@ import '../../styles/Section.css'
 
 export default function About() {
   return (
+    <AnimatePresence exitBeforeEnter>
+        <motion.div
+        key={React}
+        initial="initialState"
+        animate="animateState"
+        exit="exitState"
+        transition={{
+            duration: 1
+        }}
+        variants={{
+            initialState: {
+                opacity: 0,
+            },
+            animateState: {
+                opacity: 1,
+            },
+            exitState: {
+
+            }
+        }}>
     <div className='section aboutPage'>
         <h1>About Me</h1>
         <div className='clearfix overflow-hidden'>
@@ -25,6 +46,8 @@ export default function About() {
             </div>
         </div>
     </div>
+    </motion.div>
+    </AnimatePresence>
   );
 }
 
