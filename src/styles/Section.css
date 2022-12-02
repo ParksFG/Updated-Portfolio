@@ -1,0 +1,25 @@
+/* Universal Section Styling */
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+#root {
+    padding-bottom: 140px;
+}
+
+.section h1 {
+    text-align: center;
+    margin: 25px 0px;
+}
+
+/* About Section Styling */
+
+.aboutPage img {
+    margin: 25px;
+}
+
+.aboutPage p {
+    padding: 25px;
+    margin: 25px;
+}

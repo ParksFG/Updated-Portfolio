@@ -1,5 +1,6 @@
 .nav {
-    margin-top: 25px;
+    margin: 10px;
+    padding: 10px;
 }
 
 .nav-item a {
@@ -9,6 +10,3 @@
 .nav-item a:hover {
     color: #A288A6;
 }
-
-
-
