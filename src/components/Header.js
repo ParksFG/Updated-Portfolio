@@ -14,7 +14,8 @@ const styles = {
         margin: '0px',
         color: '#F1E3E4',
         textAlign: 'right',
-        paddingRight: '35px'
+        paddingRight: '35px',
+        textShadow: '2px 2px 5px #BB9BB0'
     },
 };
 
