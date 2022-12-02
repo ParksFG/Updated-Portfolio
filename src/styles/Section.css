@@ -1,0 +1,72 @@
+/* Universal Section Styling */
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+#root {
+    padding-bottom: 140px;
+}
+
+.section h1 {
+    text-align: center;
+    margin: 25px 0px;
+}
+
+.section h2 {
+    text-align: center;
+    margin: 25px 0px;
+}
+
+/* About Section Styling */
+
+.aboutPage img {
+    margin: 25px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.aboutPage p {
+    padding: 25px;
+    margin: 25px;
+    font-size: 20px;
+}
+
+/* Portfolio Section Styling */
+
+.portfolioPage img {
+    height: 288px;
+    width: 100%;
+    box-shadow: 5px 5px 5px black;
+    opacity: 100%;
+    transition: opacity .2s;
+    transition-timing-function: ease-in-out;
+}
+
+.portfolioPage img:hover {
+    opacity: 60%;
+    transition: opacity .2s;
+    transition-timing-function: ease-in-out;
+}
+
+/* Contact Section Styling */
+
+.list-group-item {
+    margin: 10px 0px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.listContainer {
+    width: 40%;
+    margin: 100px auto;
+}
+
+/* Resume Section Styling */
+
+.resumePage {
+    text-align: center;
+}
+
+.resumePage h3 {
+    margin-top: 30px;
+}
