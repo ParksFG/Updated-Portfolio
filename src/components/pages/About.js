@@ -3,12 +3,6 @@ import selfPortrait from '../../imgs/selfPortrait.png'
 import '../../styles/Section.css'
 import { motion, AnimatePresence } from "framer-motion"
 
-// const styles = {
-//     imgStyle: {
-//         borderRadius: '10%'
-//     }
-// }
-
 export default function About() {
   return (
     <AnimatePresence exitBeforeEnter>
