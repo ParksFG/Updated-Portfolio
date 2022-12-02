@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Updated-Portfolio/static/css/main.17a48e8b.css",
+    "main.js": "/Updated-Portfolio/static/js/main.50d4e232.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Updated-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/breweryMasters.png": "/Updated-Portfolio/static/media/breweryMasters.87f87ff2fb7ebc2555f6.png",
+    "static/media/socialMediaAPI.png": "/Updated-Portfolio/static/media/socialMediaAPI.87b103553bd21f16ca50.png",
+    "static/media/peaceOfMind.png": "/Updated-Portfolio/static/media/peaceOfMind.d6f3b9636b6e5b353941.png",
+    "static/media/weatherDashboard.png": "/Updated-Portfolio/static/media/weatherDashboard.cff3bea80461765f528e.png",
+    "static/media/selfPortrait.png": "/Updated-Portfolio/static/media/selfPortrait.dc37b60ec07c5dfc8e0e.png",
+    "static/media/lechonksLarder.png": "/Updated-Portfolio/static/media/lechonksLarder.5292408f6f8d5961b83c.png",
+    "static/media/ecommerceAPI.png": "/Updated-Portfolio/static/media/ecommerceAPI.c4e8ffbd1a6fb8b424d7.png",
+    "static/media/techBlog.png": "/Updated-Portfolio/static/media/techBlog.a98c4422cbcf2eea227c.png",
+    "static/media/passwordGenerator.png": "/Updated-Portfolio/static/media/passwordGenerator.c1b8a338166819fcf4a1.png",
+    "static/media/JAATE.png": "/Updated-Portfolio/static/media/JAATE.94702deaae6dc7bbbaf8.png",
+    "index.html": "/Updated-Portfolio/index.html",
+    "main.17a48e8b.css.map": "/Updated-Portfolio/static/css/main.17a48e8b.css.map",
+    "main.50d4e232.js.map": "/Updated-Portfolio/static/js/main.50d4e232.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Updated-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17a48e8b.css",
+    "static/js/main.50d4e232.js"
+  ]
+}
