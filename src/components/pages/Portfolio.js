@@ -8,9 +8,30 @@ import techBlog from '../../imgs/techBlog.png'
 import passwordGenerator from '../../imgs/passwordGenerator.png'
 import ecommerceAPI from '../../imgs/ecommerceAPI.png'
 import socialMediaAPI from '../../imgs/socialMediaAPI.png'
+import { motion, AnimatePresence } from "framer-motion"
 
 export default function Portfolio() {
     return (
+        <AnimatePresence exitBeforeEnter>
+        <motion.div
+        key={React}
+        initial="initialState"
+        animate="animateState"
+        exit="exitState"
+        transition={{
+            duration: 1
+        }}
+        variants={{
+            initialState: {
+                opacity: 0,
+            },
+            animateState: {
+                opacity: 1,
+            },
+            exitState: {
+
+            }
+        }}>
         <div className='section portfolioPage'>
             <h1>Portfolio</h1>
             <h2>In Progress Projects</h2>
@@ -65,5 +86,7 @@ export default function Portfolio() {
                 </div>
             </div>
         </div>
+        </motion.div>
+        </AnimatePresence>
     );
 }
