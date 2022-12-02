@@ -19,16 +19,7 @@ export default function About() {
                 </div>
                 <div className='col-sm-8 col-md-8 col-lg-10'>
                     <p className='text-center'>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-                        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-                        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-                        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-                        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-                        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-                        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-                        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-                        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-                        fames ac ante ipsum primis in faucibus.
+                        My name is Parker Gay.  I'm a 23 year old web developer who's been playing with computers since the day I could walk.  When I was in the fourth grade I went to a summer camp that taught me how to be a game developer, and ever since then I fell in love with creating in the digital world.  Through out the time between fourth and eighth grade, I would spend my free time making websites and trying to figure out how a domain name actually worked.  Once I got into highschool I started creating websites for my, and my friends, youtube channels.  After that I went to college for mechanical engineering, but soon dropped out to start a company with a good friend I met during my time in college.  It was a small online business management company which meant we ran their social media and created/maintained all sorts of websites, anything from a generic landing page to a fully operational webstore.   After about 2 years I decided I really want to dive deep into web development.  This lead to me starting the UT @ Austin web development bootcamp.  During my time there I learnt all sorts of web technologies that I can't wait to put to good work.
                     </p>
                 </div>
             </div>

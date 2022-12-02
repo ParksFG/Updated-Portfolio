@@ -17,9 +17,11 @@ body {
 
 .aboutPage img {
     margin: 25px;
+    box-shadow: 10px 10px 10px black;
 }
 
 .aboutPage p {
     padding: 25px;
     margin: 25px;
+    font-size: 20px;
 }
