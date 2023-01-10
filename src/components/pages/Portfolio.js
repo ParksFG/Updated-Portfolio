@@ -34,12 +34,12 @@ export default function Portfolio() {
         }}>
         <div className='section portfolioPage'>
             <h1>Portfolio</h1>
-            <h2>In Progress Projects</h2>
+            <h2>Latest Project</h2>
             <div className='container text-center'>
                 <div className='row row-cols-2 g-5'>
                     <div className='col projectShowcase'>
-                        <a href='https://github.com/ParksFG/Lechonks-Larder'><img src={lechonksLarder} className='img-fluid' alt='Pokemon Card Collection Website'></img></a>
-                        <p>Pokemon Card Collection Website</p>
+                        <a href='https://lechonks-larder.herokuapp.com/'><img src={lechonksLarder} className='img-fluid' alt='Pokemon Card Collection Website'></img></a>
+                        <p>Lechonk's Larder Pokemon Card Collection Website</p>
                     </div>
                 </div>
             </div>
