@@ -15,7 +15,8 @@ const styles = {
         color: '#F1E3E4',
         textAlign: 'right',
         paddingRight: '35px',
-        textShadow: '2px 2px 5px #BB9BB0'
+        textShadow: '2px 2px 5px #BB9BB0',
+        fontFamily: 'Courgette'
     },
 };
 
