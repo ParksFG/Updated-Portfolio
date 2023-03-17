@@ -26,7 +26,7 @@ export default function Resume() {
         <div className='section resumePage'>
             <h1>Resume</h1>
             <h3>Front-End Proficiencies</h3>
-                <ul>
+                <ul class="list-group">
                     <li>HTML</li>
                     <li>CSS</li>
                     <li>JavaScript</li>
@@ -35,7 +35,7 @@ export default function Resume() {
                     <li>Bootstrap</li>
                 </ul>
             <h3>Back-End Proficiencies</h3>
-                <ul>
+                <ul class="list-group">
                     <li>APIs</li>
                     <li>Node</li>
                     <li>Express</li>
